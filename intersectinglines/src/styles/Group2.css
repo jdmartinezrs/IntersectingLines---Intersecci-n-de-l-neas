@@ -52,3 +52,47 @@
     width: 13%;
     background-color: #666666;
 }
+
+.v-bar2__primera{
+    height: 11.5%;
+    width: 13%;
+    background-color: #666666;
+}
+
+.v-bar2__primera__1{
+    position: absolute;
+    height: 10.5%;
+    width: 13%;
+    background-color: #666666;
+    margin-top: 73px;
+    margin-right: 217.5px;   
+}
+
+.v-bar2__primera__2{
+    position: absolute;
+    height: 10.7%;
+    width: 13%;
+    background-color: #666666;
+    margin-top: 143px;
+    margin-right: 217.5px;   
+}
+
+.v-bar2__primera__3{
+    position: absolute;
+    height: 10.5%;
+    width: 13%;
+    background-color: #666666;
+    margin-top: 213.5px;
+    margin-right: 217.5px;   
+}
+
+.v-bar2__primera__4{
+    position: absolute;
+    height: 11.5%;
+    width: 13%;
+    background-color: #666666;
+    margin-top: 283.5px;
+    margin-right: 217.5px;   
+}
+
+

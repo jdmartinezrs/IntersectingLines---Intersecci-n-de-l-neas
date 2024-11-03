@@ -12,7 +12,11 @@ const Group2 = () => {
                 </div>
                 
                 <div className="vertical_bar2">
-                    <div className="v-bar2"></div>
+                    <div className="v-bar2__primera"></div>
+                    <div className="v-bar2__primera__1"></div>
+                    <div className="v-bar2__primera__2"></div>
+                    <div className="v-bar2__primera__3"></div>
+                    <div className="v-bar2__primera__4"></div>
                     <div className="v-bar2"></div>
                     <div className="v-bar2"></div>
                     <div className="v-bar2"></div>
