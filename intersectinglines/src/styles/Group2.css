@@ -6,10 +6,10 @@
 
 .container2 {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    position: absolute;
+    margin-left: 36%;
     min-height: 100vh;
-    background-color: white;
+   
 }
 
 .container__2 {
@@ -30,6 +30,20 @@
     justify-content: space-around;
 }
 
+.h-bar2 {
+    width: 100%;
+    height: 13%;
+    background-color: black;
+    
+}
+.h-bar2__superpuesta {
+    width: 100%;
+    height: 13%;
+    background-color: black;
+    z-index: 10;
+    
+}
+
 .vertical_bar2 {
     position: absolute;
     top: 40px;
@@ -41,58 +55,20 @@
     justify-content: space-around;
 }
 
-.h-bar2 {
-    width: 100%;
-    height: 13%;
-    background-color: black;
-}
-
-.v-bar2 {
+.v-bar2__atras{
+    z-index: -10;
     height: 100%;
     width: 13%;
     background-color: #666666;
 }
 
-.v-bar2__primera{
-    height: 11.5%;
+.v-bar2{
+    height: 100%;
     width: 13%;
     background-color: #666666;
+
 }
 
-.v-bar2__primera__1{
-    position: absolute;
-    height: 10.5%;
-    width: 13%;
-    background-color: #666666;
-    margin-top: 73px;
-    margin-right: 217.5px;   
-}
 
-.v-bar2__primera__2{
-    position: absolute;
-    height: 10.7%;
-    width: 13%;
-    background-color: #666666;
-    margin-top: 143px;
-    margin-right: 217.5px;   
-}
-
-.v-bar2__primera__3{
-    position: absolute;
-    height: 10.5%;
-    width: 13%;
-    background-color: #666666;
-    margin-top: 213.5px;
-    margin-right: 217.5px;   
-}
-
-.v-bar2__primera__4{
-    position: absolute;
-    height: 11.5%;
-    width: 13%;
-    background-color: #666666;
-    margin-top: 283.5px;
-    margin-right: 217.5px;   
-}
 
 
